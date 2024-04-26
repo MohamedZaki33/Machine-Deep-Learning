@@ -1,0 +1,1 @@
+Developed an image colorization model using [like deep learning frameworks such as TensorFlow]. Implemented a convolutional neural network (CNN) architecture to predict and add color to grayscale images. Experimented with various datasets and hyperparameters to optimize performance and achieve realistic colorization results.
